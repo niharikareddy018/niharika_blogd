@@ -1,0 +1,8 @@
+{
+  "name": "niharika-blog",
+  "private": true,
+  "scripts": {
+    "build": "node build-index.js",
+    "dev": "node build-index.js && npx serve ."
+  }
+}
