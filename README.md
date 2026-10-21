@@ -1,7 +1,5 @@
 # Niharika's blog
 
-Plain HTML, CSS and JavaScript. No framework, no build tools beyond one tiny Node script.
-
 ## Add a post
 1. Copy `posts/_template.md` to `posts/my-post.md` (the filename becomes the URL).
 2. Fill in the top block (title, date, description, tags, optional thumb) and write the post in Markdown.
